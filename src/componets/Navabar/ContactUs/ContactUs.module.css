@@ -1,0 +1,14 @@
+.contactSection h1 {
+  margin-top: 0.6   rem;
+  padding-left: 5rem;
+  height: 72px;
+  display: flex;
+  font-weight: 800;
+  font-size: 48px;
+}
+
+.contactSection p {
+  max-width: 1000px;
+  padding-left: 5rem;
+  font-weight: 500;
+}

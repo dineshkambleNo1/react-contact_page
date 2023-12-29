@@ -1,0 +1,38 @@
+.contact_form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.primary_btn {
+  padding: 9px 6px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-width: 220px;
+  font-size: 20px;
+  max-width: 900px;
+  width: 50%;
+  cursor: pointer;
+}
+
+.outline_btn {
+  padding: 9px 6px;
+  background-color: 1px solid black;
+  color: black;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-width: 220px;
+  font-size: 20px;
+  width: 100%;
+  cursor: pointer;
+}
+
+
